@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2020 Autumn Quarter/Data Structures/Assginments/p4/CommonWordList.h
+WordCounter.h
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2020 Autumn Quarter/Data Structures/Assginments/p4/WordCounter.h
+vector
+-
+string
+-
+iostream
+-
+
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2020 Autumn Quarter/Data Structures/Assginments/p4/WordCounter.h
+sstream
+-
+functional
+-
+iostream
+-
+
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2020 Autumn Quarter/Data Structures/Assginments/p4/p4.cpp
+WordCounter.h
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2020 Autumn Quarter/Data Structures/Assginments/p4/WordCounter.h
+CommonWordList.h
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2020 Autumn Quarter/Data Structures/Assginments/p4/CommonWordList.h
+sstream
+-
+iostream
+-
+fstream
+-
+string
+-
+iomanip
+-
+
